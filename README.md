@@ -22,7 +22,7 @@ The *correct* file path is **saves/[world]/datapacks**
 I now have a Ko-fi link located on the pack’s Modrinth page on the sidebar, but always remember donations are appreciated, but **never** required.
 
 ## 👾 Issues
-Please report any Datapack issues to the Discord located in the Links tab, or on the [Github page]().
+Please report any Datapack issues to the Discord located in the Links tab, or on the [Github page](https://github.com/AtlasPlays/Elytra-Vaults/issues).
 
 ## 🪪 Licence
 This Datapack, along with all my other ones, is clasified under **ARR**, or **All Rights Reserved**. 
