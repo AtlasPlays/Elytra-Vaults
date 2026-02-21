@@ -34,5 +34,3 @@ You may **NOT** redistribute this work in any capacity including, but not limite
 You **MAY** upload videos, screenshots, and other media as long as you do not claim that you have created the project and any associated files as your own. You also may create add-ons so long as proper credit to me, AtlasPlays, is given stating that I am the original owner and you do not redistribute any of the original files mentioned above.
 
 If you have any questions regarding what you can or cannot do, feel free to reach out to me on my Discord. http://discord.gg/GFWRpgyxAs
-
-<details>
