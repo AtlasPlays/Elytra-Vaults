@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Plugin
+    url: https://github.com/Derec-Mods/Elytra-Vaults/issues/new
+    about: Report issues with the Plugin version.
